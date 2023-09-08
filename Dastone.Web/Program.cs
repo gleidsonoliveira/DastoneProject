@@ -15,6 +15,8 @@ builder.Services.AddMapperConfiguration();
 
 var app = builder.Build();
 
+builder.Services.UpdateDatabase(app);
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
