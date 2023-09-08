@@ -30,5 +30,59 @@ namespace Dastone.Controllers
             return PartialView("_List", vCourtyards);
         }
 
+        public async Task<IActionResult> Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create([FromForm] ClientViewModel Obj)
+        {
+            if (ModelState.IsValid)
+            {
+                Obj.Situations = Situations.Active;
+                Obj.RegisterDate = DateTime.Now;
+
+                var vClientViewModel = _vMapper.Map<Client>(Obj);
+                var vObjClient = await _vIClientService.Add(vClientViewModel);
+
+                return RedirectToAction("Edit", new { Id = vObjClient.Id });
+            }
+            return View(Obj);
+        }
+
+        public async Task<IActionResult> Edit(long Id)
+        {
+            var vClient = await _vIClientService.GetById(Id);
+
+            if (vClient == null)
+                return RedirectToAction("Index");
+
+            return View(vClient);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit([FromForm] ClientViewModel Obj)
+        {
+            if (ModelState.IsValid)
+            {
+                Obj.Situations = Situations.Active;
+                Obj.ChangeDate = DateTime.Now;
+
+                Client vClient = await _vIClientService.GetById(Obj.Id);
+                if (vClient != null && vClient.Id > 0)
+                {
+                    var vCourtyard = _vMapper.Map(Obj, vClient);
+
+                    await _vIClientService.Update(vCourtyard);
+
+                    return RedirectToAction("Index");
+                }
+            }
+            return View(Obj);
+
+        }
     }
 }
