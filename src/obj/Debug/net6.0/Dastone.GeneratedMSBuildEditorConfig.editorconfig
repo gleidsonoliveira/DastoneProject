@@ -9,425 +9,425 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Dastone
 build_property.RootNamespace = Dastone
-build_property.ProjectDir = C:\Desenvolvimento\Taina\themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template\Dastone-ASP.net-core6\Dastone\
+build_property.ProjectDir = C:\Desenvolvimento\Taina\Project\DastoneProject\src\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Desenvolvimento\Taina\themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template\Dastone-ASP.net-core6\Dastone
+build_property.MSBuildProjectDirectory = C:\Desenvolvimento\Taina\Project\DastoneProject\src
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/Calendar.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/Calendar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xDYWxlbmRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/Chat.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/Chat.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xDaGF0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/Contacts.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/Contacts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xDb250YWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/EcommerceCart.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/EcommerceCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xFY29tbWVyY2VDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/EcommerceCheckout.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/EcommerceCheckout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xFY29tbWVyY2VDaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/EcommerceProcuctDetail.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/EcommerceProcuctDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xFY29tbWVyY2VQcm9jdWN0RGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/EcommerceProductList.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/EcommerceProductList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xFY29tbWVyY2VQcm9kdWN0TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/EcommerceProducts.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/EcommerceProducts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xFY29tbWVyY2VQcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/FileManager.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/FileManager.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xGaWxlTWFuYWdlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/Inbox.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/Inbox.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xJbmJveC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/Invoice.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/Invoice.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xJbnZvaWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/Project.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/Project.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xQcm9qZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/ProjectBoard.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/ProjectBoard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xQcm9qZWN0Qm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/ProjectFiles.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/ProjectFiles.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xQcm9qZWN0RmlsZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/ProjectOverview.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/ProjectOverview.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xQcm9qZWN0T3ZlcnZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/Projects.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/Projects.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xQcm9qZWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/ProjectTeams.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/ProjectTeams.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xQcm9qZWN0VGVhbXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/ReadEmail.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/ReadEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xSZWFkRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Apps/Tasks.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Apps/Tasks.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwc1xUYXNrcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Authentication/InternalError.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Authentication/InternalError.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cSW50ZXJuYWxFcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Authentication/LockScreen.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Authentication/LockScreen.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9ja1NjcmVlbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Authentication/login.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Authentication/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cbG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Authentication/NotFound.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Authentication/NotFound.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTm90Rm91bmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Authentication/RecoverPassword.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Authentication/RecoverPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cUmVjb3ZlclBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Authentication/Register.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Authentication/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Home/Index.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Home/Sales.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Home/Sales.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTYWxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Home/Widgets.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Home/Widgets.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXaWRnZXRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Pages/blogs.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Pages/blogs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcYmxvZ3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Pages/faqs.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Pages/faqs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcZmFxcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Pages/pricing.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Pages/pricing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNccHJpY2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Pages/profile.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Pages/profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNccHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Pages/starter.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Pages/starter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcc3RhcnRlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Pages/timeline.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Pages/timeline.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcdGltZWxpbmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Pages/treeview.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Pages/treeview.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZXNcdHJlZXZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Shared/Error.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Shared/_Footer.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Shared/_Layout.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/Shared/_Sidebar.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/Shared/_Sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Accordions.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Accordions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcQWNjb3JkaW9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/advanced.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/advanced.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcYWR2YW5jZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Alert.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Alert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcQWxlcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/animation.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/animation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcYW5pbWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/apex.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/apex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcYXBleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Avatar.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Avatar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcQXZhdGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Badges.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Badges.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcQmFkZ2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Buttons.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Buttons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcQnV0dG9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Cards.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Cards.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcQ2FyZHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Carousels.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Carousels.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcQ2Fyb3VzZWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/chartjs.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/chartjs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcY2hhcnRqcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/clipboard.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/clipboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcY2xpcGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Dropdowns.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Dropdowns.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcRHJvcGRvd25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/editor.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/editor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcZWRpdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/elements.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/elements.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcZWxlbWVudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/email-template-alert.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/email-template-alert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcZW1haWwtdGVtcGxhdGUtYWxlcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/email-template-basic.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/email-template-basic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcZW1haWwtdGVtcGxhdGUtYmFzaWMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/email-template-billing.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/email-template-billing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcZW1haWwtdGVtcGxhdGUtYmlsbGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/flot.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/flot.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcZmxvdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Grids.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Grids.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcR3JpZHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/highlight.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/highlight.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcaGlnaGxpZ2h0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/icons-dripicons.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/icons-dripicons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcaWNvbnMtZHJpcGljb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/icons-feather.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/icons-feather.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcaWNvbnMtZmVhdGhlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/icons-fontawesome.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/icons-fontawesome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcaWNvbnMtZm9udGF3ZXNvbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/icons-materialdesign.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/icons-materialdesign.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcaWNvbnMtbWF0ZXJpYWxkZXNpZ24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/icons-themify.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/icons-themify.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcaWNvbnMtdGhlbWlmeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/icons-typicons.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/icons-typicons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcaWNvbnMtdHlwaWNvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/idle-timer.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/idle-timer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcaWRsZS10aW1lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Images.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Images.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcSW1hZ2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/kanban.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/kanban.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRca2FuYmFuLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/lightbox.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/lightbox.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcbGlnaHRib3guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/List.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/maps-google.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/maps-google.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcbWFwcy1nb29nbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/maps-leaflet.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/maps-leaflet.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcbWFwcy1sZWFmbGV0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/maps-vector.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/maps-vector.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcbWFwcy12ZWN0b3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Models.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Models.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcTW9kZWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/morris.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/morris.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcbW9ycmlzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Navbar.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Navbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcTmF2YmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Navs.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Navs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcTmF2cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/nestable.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/nestable.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcbmVzdGFibGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/OffCanvas.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/OffCanvas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcT2ZmQ2FudmFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Paginations.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Paginations.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcUGFnaW5hdGlvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/PopoverTooltips.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/PopoverTooltips.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcUG9wb3ZlclRvb2x0aXBzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Progress.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Progress.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcUHJvZ3Jlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Radio.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Radio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcUmFkaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/rangeslider.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/rangeslider.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRccmFuZ2VzbGlkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/ratings.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/ratings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRccmF0aW5ncy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/repeater.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/repeater.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRccmVwZWF0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/ribbons.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/ribbons.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRccmliYm9ucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/session.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/session.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcc2Vzc2lvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Spinners.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Spinners.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcU3Bpbm5lcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/sweetalerts.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/sweetalerts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcc3dlZXRhbGVydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/tables-basic.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/tables-basic.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcdGFibGVzLWJhc2ljLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/tables-datatable.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/tables-datatable.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcdGFibGVzLWRhdGF0YWJsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/tables-editable.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/tables-editable.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcdGFibGVzLWVkaXRhYmxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/tables-responsive.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/tables-responsive.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcdGFibGVzLXJlc3BvbnNpdmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Toasts.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Toasts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcVG9hc3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Typography.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Typography.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcVHlwb2dyYXBoeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/uploads.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/uploads.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcdXBsb2Fkcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/validation.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/validation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcdmFsaWRhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/Videos.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/Videos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcVmlkZW9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/wizard.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/wizard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRcd2l6YXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/UIKit/x-editable.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/UIKit/x-editable.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlLaXRceC1lZGl0YWJsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/_ViewImports.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Desenvolvimento/Taina/themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template/Dastone-ASP.net-core6/Dastone/Views/_ViewStart.cshtml]
+[C:/Desenvolvimento/Taina/Project/DastoneProject/src/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
