@@ -67,11 +67,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desenvolvimento\\Taina\\themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template\\Dastone-ASP.net-core6\\Dastone\\Dastone.csproj",
+      "projectUniqueName": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\src\\Dastone.csproj",
       "projectName": "Dastone",
-      "projectPath": "C:\\Desenvolvimento\\Taina\\themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template\\Dastone-ASP.net-core6\\Dastone\\Dastone.csproj",
+      "projectPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\src\\Dastone.csproj",
       "packagesPath": "C:\\Users\\gleid\\.nuget\\packages\\",
-      "outputPath": "C:\\Desenvolvimento\\Taina\\themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template\\Dastone-ASP.net-core6\\Dastone\\obj\\",
+      "outputPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\src\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gleid\\AppData\\Roaming\\NuGet\\NuGet.Config",
