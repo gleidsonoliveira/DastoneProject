@@ -1,0 +1,11 @@
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\bin\Debug\net6.0\Dastone.Service.deps.json
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\bin\Debug\net6.0\Dastone.Service.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\bin\Debug\net6.0\Dastone.Service.pdb
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0\Dastone.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0\Dastone.Service.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0\Dastone.Service.AssemblyInfo.cs
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0\Dastone.Service.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0\Dastone.Service.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0\refint\Dastone.Service.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0\Dastone.Service.pdb
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0\ref\Dastone.Service.dll
