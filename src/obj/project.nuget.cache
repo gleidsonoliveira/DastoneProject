@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5OCsL0dsjOo3qRz8bs82Cr5WZyKzreQHPuq7MsUjBKYLSJNBPPn5PkDtk9mS7Brw1V1odyfksUhDA9aMcdS7A==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\Taina\\themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template\\Dastone-ASP.net-core6\\Dastone\\Dastone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gleid\\.nuget\\packages\\jquery\\1.5.0\\jquery.1.5.0.nupkg.sha512",
+    "C:\\Users\\gleid\\.nuget\\packages\\jvectormap\\2.0.4\\jvectormap.2.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

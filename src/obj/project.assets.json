@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "jQuery/1.5.0": {
+        "type": "package"
+      },
+      "jvectormap/2.0.4": {
+        "type": "package",
+        "dependencies": {
+          "jQuery": "1.5.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jQuery/1.5.0": {
+      "sha512": "5+nEf4jVSH+C1iZHw2yN+ihXGVw88glGZ1uYNwUhObrktwQG4+qzDEP93OIcWYqoI1C0RzAdR0GXRsmC77HKMA==",
+      "type": "package",
+      "path": "jquery/1.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Scripts/jquery-1.5.js",
+        "Content/Scripts/jquery-1.5.min.js",
+        "jquery.1.5.0.nupkg.sha512",
+        "jquery.nuspec"
+      ]
+    },
+    "jvectormap/2.0.4": {
+      "sha512": "eTvuSXyDN7Z/5yUe5mwSHoii68JLSBYFiugANsPzrmtc4QzC58EpI05g4nORp91hSIKEtXBN47K8n/TG83OrYA==",
+      "type": "package",
+      "path": "jvectormap/2.0.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/Content/jquery-jvectormap.css",
+        "content/Scripts/jVectorMaps/world-ISO-A2/jquery-jvectormap-world-mill-en-US.js",
+        "content/Scripts/jVectorMaps/world-ISO-A2/jquery-jvectormap-world-mill-en-US.min.js",
+        "content/Scripts/jVectorMaps/world-ISO-A2/jquery-jvectormap-world-mill-en-US.min.js.map",
+        "content/Scripts/jVectorMaps/world-ISO-A3/jquery-jvectormap-world-mill-de-DE.js",
+        "content/Scripts/jVectorMaps/world-ISO-A3/jquery-jvectormap-world-mill-de-DE.min.js",
+        "content/Scripts/jVectorMaps/world-ISO-A3/jquery-jvectormap-world-mill-de-DE.min.js.map",
+        "content/Scripts/jVectorMaps/world-ISO-A3/jquery-jvectormap-world-mill-en-US.js",
+        "content/Scripts/jVectorMaps/world-ISO-A3/jquery-jvectormap-world-mill-en-US.min.js",
+        "content/Scripts/jVectorMaps/world-ISO-A3/jquery-jvectormap-world-mill-en-US.min.js.map",
+        "content/Scripts/jVectorMaps/world-timezone/jquery-jvectormap-world-timezones.js",
+        "content/Scripts/jVectorMaps/world-timezone/jquery-jvectormap-world-timezones.min.js",
+        "content/Scripts/jVectorMaps/world-timezone/jquery-jvectormap-world-timezones.min.js.map",
+        "content/Scripts/jquery-jvectormap.js",
+        "content/Scripts/jquery-jvectormap.min.js",
+        "content/Scripts/jquery-jvectormap.min.js.map",
+        "content/Scripts/jquery-mousewheel.js",
+        "jvectormap.2.0.4.nupkg.sha512",
+        "jvectormap.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "jvectormap >= 2.0.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gleid\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Desenvolvimento\\Taina\\themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template\\Dastone-ASP.net-core6\\Dastone\\Dastone.csproj",
+      "projectName": "Dastone",
+      "projectPath": "C:\\Desenvolvimento\\Taina\\themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template\\Dastone-ASP.net-core6\\Dastone\\Dastone.csproj",
+      "packagesPath": "C:\\Users\\gleid\\.nuget\\packages\\",
+      "outputPath": "C:\\Desenvolvimento\\Taina\\themeforest-RUKQLJJX-dastone-aspnet-core-6-admin-dashboard-template\\Dastone-ASP.net-core6\\Dastone\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gleid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "jvectormap": {
+            "target": "Package",
+            "version": "[2.0.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
