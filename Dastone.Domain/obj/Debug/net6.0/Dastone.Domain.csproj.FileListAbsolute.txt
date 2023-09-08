@@ -1,10 +1,10 @@
-C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Domain\bin\Debug\net6.0\Dastone.Domain.deps.json
-C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Domain\bin\Debug\net6.0\Dastone.Domain.dll
-C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Domain\bin\Debug\net6.0\Dastone.Domain.pdb
 C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Domain\obj\Debug\net6.0\Dastone.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Domain\obj\Debug\net6.0\Dastone.Domain.AssemblyInfoInputs.cache
 C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Domain\obj\Debug\net6.0\Dastone.Domain.AssemblyInfo.cs
 C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Domain\obj\Debug\net6.0\Dastone.Domain.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Domain\bin\Debug\net6.0\Dastone.Domain.deps.json
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Domain\bin\Debug\net6.0\Dastone.Domain.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Domain\bin\Debug\net6.0\Dastone.Domain.pdb
 C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Domain\obj\Debug\net6.0\Dastone.Domain.dll
 C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Domain\obj\Debug\net6.0\refint\Dastone.Domain.dll
 C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Domain\obj\Debug\net6.0\Dastone.Domain.pdb
