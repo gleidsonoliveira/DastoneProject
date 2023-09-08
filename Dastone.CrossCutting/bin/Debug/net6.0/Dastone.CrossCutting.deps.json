@@ -11,6 +11,7 @@
           "AutoMapper": "12.0.1",
           "Dastone.Data": "1.0.0",
           "Dastone.Service": "1.0.0",
+          "Dastone.ViewModel": "1.0.0",
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "6.0.2"
@@ -257,6 +258,14 @@
         "runtime": {
           "Dastone.Service.dll": {}
         }
+      },
+      "Dastone.ViewModel/1.0.0": {
+        "dependencies": {
+          "Dastone.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Dastone.ViewModel.dll": {}
+        }
       }
     }
   },
@@ -438,6 +447,11 @@
       "sha512": ""
     },
     "Dastone.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dastone.ViewModel/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -8,6 +8,18 @@
 
   <ItemGroup>
     <PackageReference Include="jvectormap" Version="2.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.16">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.17.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dastone.CrossCutting\Dastone.CrossCutting.csproj" />
+    <ProjectReference Include="..\Dastone.Domain\Dastone.Domain.csproj" />
+    <ProjectReference Include="..\Dastone.Service\Dastone.Service.csproj" />
+    <ProjectReference Include="..\Dastone.ViewModel\Dastone.ViewModel.csproj" />
   </ItemGroup>
 
 </Project>

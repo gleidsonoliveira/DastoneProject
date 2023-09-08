@@ -17,3 +17,5 @@ C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.CrossCutting\obj\Debug\n
 C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.CrossCutting\obj\Debug\net6.0\refint\Dastone.CrossCutting.dll
 C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.CrossCutting\obj\Debug\net6.0\Dastone.CrossCutting.pdb
 C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.CrossCutting\obj\Debug\net6.0\ref\Dastone.CrossCutting.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.CrossCutting\bin\Debug\net6.0\Dastone.ViewModel.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.CrossCutting\bin\Debug\net6.0\Dastone.ViewModel.pdb

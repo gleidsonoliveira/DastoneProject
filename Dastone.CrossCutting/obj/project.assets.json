@@ -420,6 +420,19 @@
         "runtime": {
           "bin/placeholder/Dastone.Service.dll": {}
         }
+      },
+      "Dastone.ViewModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Dastone.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Dastone.ViewModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dastone.ViewModel.dll": {}
+        }
       }
     }
   },
@@ -966,6 +979,11 @@
       "type": "project",
       "path": "../Dastone.Service/Dastone.Service.csproj",
       "msbuildProject": "../Dastone.Service/Dastone.Service.csproj"
+    },
+    "Dastone.ViewModel/1.0.0": {
+      "type": "project",
+      "path": "../Dastone.ViewModel/Dastone.ViewModel.csproj",
+      "msbuildProject": "../Dastone.ViewModel/Dastone.ViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -973,6 +991,7 @@
       "AutoMapper >= 12.0.1",
       "Dastone.Data >= 1.0.0",
       "Dastone.Service >= 1.0.0",
+      "Dastone.ViewModel >= 1.0.0",
       "Microsoft.AspNetCore.Http.Abstractions >= 2.2.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0",
       "Pomelo.EntityFrameworkCore.MySql >= 6.0.2"
@@ -1010,6 +1029,9 @@
             },
             "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Service\\Dastone.Service.csproj": {
               "projectPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Service\\Dastone.Service.csproj"
+            },
+            "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.ViewModel\\Dastone.ViewModel.csproj": {
+              "projectPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.ViewModel\\Dastone.ViewModel.csproj"
             }
           }
         }

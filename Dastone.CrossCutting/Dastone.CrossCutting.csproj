@@ -16,6 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Dastone.Data\Dastone.Data.csproj" />
     <ProjectReference Include="..\Dastone.Service\Dastone.Service.csproj" />
+    <ProjectReference Include="..\Dastone.ViewModel\Dastone.ViewModel.csproj" />
   </ItemGroup>
 
 </Project>
