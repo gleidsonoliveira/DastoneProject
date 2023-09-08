@@ -1,4 +1,5 @@
-﻿using Dastone.Domain.Entity;
+﻿using Dastone.Data.Mappings;
+using Dastone.Domain.Entity;
 using Microsoft.EntityFrameworkCore;
 
 namespace Dastone.Data.Context

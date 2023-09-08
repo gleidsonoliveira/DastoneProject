@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2LSRsxxN5T5pRa27Zp80FdCQSL0G1B4jlVLe1KwiyheDPxzwISxwZmR6fniJ1dAYwololnJY4Rj92iXMLxHXzw==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Web\\Dastone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gleid\\.nuget\\packages\\jquery\\1.5.0\\jquery.1.5.0.nupkg.sha512",
+    "C:\\Users\\gleid\\.nuget\\packages\\jvectormap\\2.0.4\\jvectormap.2.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
