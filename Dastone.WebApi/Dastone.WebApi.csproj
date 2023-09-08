@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>520bad74-bc87-4b32-b495-732b42c09b2b</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dastone.CrossCutting\Dastone.CrossCutting.csproj" />
+    <ProjectReference Include="..\Dastone.Domain\Dastone.Domain.csproj" />
+    <ProjectReference Include="..\Dastone.Service\Dastone.Service.csproj" />
+    <ProjectReference Include="..\Dastone.ViewModel\Dastone.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>
