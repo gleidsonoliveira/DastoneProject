@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vRxFQlXRIbhpkr1v9kpxDJPcSd0Lrctf50cSBMVpq50=",
+  "Source": "Dastone.WebApi",
+  "BasePath": "_content/Dastone.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
