@@ -19,17 +19,23 @@
                 <a href="javascript: void(0);"> <i data-feather="home" class="align-self-center menu-icon"></i><span>Dashboard</span><span class="menu-arrow"><i class="mdi mdi-chevron-right"></i></span></a>
                 <ul class="nav-second-level" aria-expanded="false">
                     <li class="nav-item"><a class="nav-link" asp-controller="home" asp-action="index"><i class="ti-control-record"></i>Analytics</a></li>
-                    <li class="nav-item"><a class="nav-link" asp-controller="home" asp-action="sales" ><i class="ti-control-record"></i>Sales</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="home" asp-action="sales"><i class="ti-control-record"></i>Sales</a></li>
                 </ul>
             </li>
-
+            <li>
+                <a href="javascript: void(0);"> <i data-feather="file-text" class="align-self-center menu-icon"></i><span>Cadastro Básico</span><span class="menu-arrow"><i class="mdi mdi-chevron-right"></i></span></a>
+                <ul class="nav-second-level" aria-expanded="false">
+                    <li class="nav-item"><a class="nav-link" asp-controller="client" asp-action="index"><i class="ti-control-record"></i>Clientes</a></li>
+                </ul>
+            </li>
             <li>
                 <a href="javascript: void(0);"><i data-feather="grid" class="align-self-center menu-icon"></i><span>Apps</span><span class="menu-arrow"><i class="mdi mdi-chevron-right"></i></span></a>
                 <ul class="nav-second-level" aria-expanded="false">
                     <li>
                         <a href="javascript: void(0);">
-                            <i class="ti-control-record"></i>Email 
-                            <span class="menu-arrow left-has-menu"><i class="mdi mdi-chevron-right"></i></span></a>
+                            <i class="ti-control-record"></i>Email
+                            <span class="menu-arrow left-has-menu"><i class="mdi mdi-chevron-right"></i></span>
+                        </a>
                         <ul class="nav-second-level" aria-expanded="false">
                             <li><a asp-action="inbox" asp-controller="apps">Inbox</a></li>
                             <li><a asp-action="reademail" asp-controller="apps">Read Email</a></li>

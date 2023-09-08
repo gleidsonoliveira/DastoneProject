@@ -81,6 +81,22 @@
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Web\\wwwroot\\css\\default.css",
+      "PackagePath": "staticwebassets\\css\\default.css"
+    },
+    {
+      "Id": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Web\\wwwroot\\css\\default.css.map",
+      "PackagePath": "staticwebassets\\css\\default.css.map"
+    },
+    {
+      "Id": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Web\\wwwroot\\css\\default.min.css",
+      "PackagePath": "staticwebassets\\css\\default.min.css"
+    },
+    {
+      "Id": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Web\\wwwroot\\css\\default.min.css.map",
+      "PackagePath": "staticwebassets\\css\\default.min.css.map"
+    },
+    {
       "Id": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Web\\wwwroot\\css\\icons.css",
       "PackagePath": "staticwebassets\\css\\icons.css"
     },
@@ -749,6 +765,10 @@
       "PackagePath": "staticwebassets\\images\\widgets\\weather.png"
     },
     {
+      "Id": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Web\\wwwroot\\js\\Http\\Http.js",
+      "PackagePath": "staticwebassets\\js\\Http\\Http.js"
+    },
+    {
       "Id": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Web\\wwwroot\\js\\app.js",
       "PackagePath": "staticwebassets\\js\\app.js"
     },
@@ -759,6 +779,10 @@
     {
       "Id": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Web\\wwwroot\\js\\feather.min.js",
       "PackagePath": "staticwebassets\\js\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Web\\wwwroot\\js\\function\\function.js",
+      "PackagePath": "staticwebassets\\js\\function\\function.js"
     },
     {
       "Id": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Web\\wwwroot\\js\\jquery-ui.min.js",

@@ -51,7 +51,8 @@ namespace Dastone.Service.Services
 
         public Task<IEnumerable<Client>> GetAllAsync(Expression<Func<Client, bool>> predicate)
         {
-            throw new NotImplementedException();
+            var result = _vIClientRepository.GetAllAsync(predicate);
+            return result;
         }
 
         public async Task<Client> GetById(long Id)

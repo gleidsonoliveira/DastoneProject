@@ -1,4 +1,5 @@
-﻿using System.Linq.Expressions;
+﻿using Dastone.Domain.Enum;
+using System.Linq.Expressions;
 
 namespace Dastone.Domain.Interfaces.Service.Base
 {
@@ -12,6 +13,7 @@ namespace Dastone.Domain.Interfaces.Service.Base
         Task<TEntity> GetById(long Id);
         IQueryable<TEntity> GetAll(Func<TEntity, bool> predicate);
         Task<IEnumerable<TEntity>> GetAllAsync(Expression<Func<TEntity, bool>> predicate);
+        IQueryable<TEntity> GetAllActive(Situations pSituations);
         TEntity Get(Func<TEntity, bool> predicate);
     }
 }
