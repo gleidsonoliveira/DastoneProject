@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Dastone.Service/1.0.0": {
+        "dependencies": {
+          "Dastone.Domain": "1.0.0"
+        },
         "runtime": {
           "Dastone.Service.dll": {}
+        }
+      },
+      "Dastone.Domain/1.0.0": {
+        "runtime": {
+          "Dastone.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Dastone.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dastone.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

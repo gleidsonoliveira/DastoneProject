@@ -5,11 +5,13 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dastone", "Dastone.Web\Dastone.csproj", "{61C3492A-6C53-477F-9B45-4A4DB9CDEEF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dastone.Domain", "Dastone.Domain\Dastone.Domain.csproj", "{C002AB40-8B04-4298-A6E4-101B30CD8A6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dastone.Domain", "Dastone.Domain\Dastone.Domain.csproj", "{C002AB40-8B04-4298-A6E4-101B30CD8A6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dastone.Data", "Dastone.Data\Dastone.Data.csproj", "{D3B11CE1-2259-42D5-B2F4-1A52C898B747}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dastone.Data", "Dastone.Data\Dastone.Data.csproj", "{D3B11CE1-2259-42D5-B2F4-1A52C898B747}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dastone.Service", "Dastone.Service\Dastone.Service.csproj", "{8292C02F-2168-4C48-8524-80959AA40B1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dastone.Service", "Dastone.Service\Dastone.Service.csproj", "{8292C02F-2168-4C48-8524-80959AA40B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dastone.CrossCutting", "Dastone.CrossCutting\Dastone.CrossCutting.csproj", "{723AE49F-2C45-4366-A047-A481395C25D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8292C02F-2168-4C48-8524-80959AA40B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8292C02F-2168-4C48-8524-80959AA40B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8292C02F-2168-4C48-8524-80959AA40B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723AE49F-2C45-4366-A047-A481395C25D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723AE49F-2C45-4366-A047-A481395C25D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723AE49F-2C45-4366-A047-A481395C25D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723AE49F-2C45-4366-A047-A481395C25D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
