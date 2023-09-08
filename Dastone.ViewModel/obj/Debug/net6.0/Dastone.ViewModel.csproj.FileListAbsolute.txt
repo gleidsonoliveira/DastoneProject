@@ -1,0 +1,15 @@
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\bin\Debug\net6.0\Dastone.ViewModel.deps.json
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\bin\Debug\net6.0\Dastone.ViewModel.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\bin\Debug\net6.0\Dastone.ViewModel.pdb
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\bin\Debug\net6.0\Dastone.Domain.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\bin\Debug\net6.0\Dastone.Domain.pdb
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\obj\Debug\net6.0\Dastone.ViewModel.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\obj\Debug\net6.0\Dastone.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\obj\Debug\net6.0\Dastone.ViewModel.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\obj\Debug\net6.0\Dastone.ViewModel.AssemblyInfo.cs
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\obj\Debug\net6.0\Dastone.ViewModel.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\obj\Debug\net6.0\Dastone.ViewModel.csproj.CopyComplete
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\obj\Debug\net6.0\Dastone.ViewModel.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\obj\Debug\net6.0\refint\Dastone.ViewModel.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\obj\Debug\net6.0\Dastone.ViewModel.pdb
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.ViewModel\obj\Debug\net6.0\ref\Dastone.ViewModel.dll
