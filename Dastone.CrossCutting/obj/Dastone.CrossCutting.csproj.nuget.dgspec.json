@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.CrossCutting\\Dastone.CrossCutting.csproj": {}
+  },
+  "projects": {
+    "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.CrossCutting\\Dastone.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.CrossCutting\\Dastone.CrossCutting.csproj",
+        "projectName": "Dastone.CrossCutting",
+        "projectPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.CrossCutting\\Dastone.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\gleid\\.nuget\\packages\\",
+        "outputPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gleid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Data\\Dastone.Data.csproj": {
+                "projectPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Data\\Dastone.Data.csproj"
+              },
+              "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Service\\Dastone.Service.csproj": {
+                "projectPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Service\\Dastone.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Data\\Dastone.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Data\\Dastone.Data.csproj",
+        "projectName": "Dastone.Data",
+        "projectPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Data\\Dastone.Data.csproj",
+        "packagesPath": "C:\\Users\\gleid\\.nuget\\packages\\",
+        "outputPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gleid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Domain\\Dastone.Domain.csproj": {
+                "projectPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Domain\\Dastone.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Domain\\Dastone.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Domain\\Dastone.Domain.csproj",
+        "projectName": "Dastone.Domain",
+        "projectPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Domain\\Dastone.Domain.csproj",
+        "packagesPath": "C:\\Users\\gleid\\.nuget\\packages\\",
+        "outputPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gleid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Service\\Dastone.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Service\\Dastone.Service.csproj",
+        "projectName": "Dastone.Service",
+        "projectPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Service\\Dastone.Service.csproj",
+        "packagesPath": "C:\\Users\\gleid\\.nuget\\packages\\",
+        "outputPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gleid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Domain\\Dastone.Domain.csproj": {
+                "projectPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Domain\\Dastone.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

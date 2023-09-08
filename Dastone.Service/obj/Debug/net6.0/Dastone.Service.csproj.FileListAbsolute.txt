@@ -9,3 +9,7 @@ C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0
 C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0\refint\Dastone.Service.dll
 C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0\Dastone.Service.pdb
 C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0\ref\Dastone.Service.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0\Dastone.Service.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\bin\Debug\net6.0\Dastone.Domain.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\bin\Debug\net6.0\Dastone.Domain.pdb
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Service\obj\Debug\net6.0\Dastone.Service.csproj.CopyComplete

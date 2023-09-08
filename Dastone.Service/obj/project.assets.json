@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Dastone.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Dastone.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dastone.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Dastone.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Dastone.Domain/Dastone.Domain.csproj",
+      "msbuildProject": "../Dastone.Domain/Dastone.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Dastone.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\gleid\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Domain\\Dastone.Domain.csproj": {
+              "projectPath": "C:\\Desenvolvimento\\Taina\\Project\\DastoneProject\\Dastone.Domain\\Dastone.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

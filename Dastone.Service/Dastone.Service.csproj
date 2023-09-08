@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Dastone.Domain\Dastone.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
