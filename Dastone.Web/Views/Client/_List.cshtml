@@ -1,5 +1,91 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@using System.Globalization
+@using Dastone.Domain.Enum;
+@using Dastone.ViewModel.Entity;
+@model IEnumerable<ClientViewModel>
+
+<!-- DataTables -->
+<link href="~/lib/datatables/dataTables.bootstrap5.min.css" rel="stylesheet" type="text/css" />
+<link href="~/lib/datatables/buttons.bootstrap5.min.css" rel="stylesheet" type="text/css" />
+
+
+<!-- Required datatable js -->
+<script type="text/javascript" src="~/lib/datatables/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="~/lib/datatables/dataTables.bootstrap5.min.js"></script>
+
+<script type="text/javascript">
+    $(function () {
+
+        $('#datatable-client').dataTable({
+            "oLanguage":
+            {
+                "sProcessing": "Processando...",
+                "sLengthMenu": "Mostrar _MENU_ registros",
+                "sZeroRecords": "Não há resultados",
+                "sInfo": "Mostrando de _START_ até _END_ de _TOTAL_ registros",
+                "sInfoEmpty": "Mostrando de 0 até 0 de 0 registros",
+                "sInfoFiltered": "",
+                "sInfoPostFix": "",
+                "sSearch": "&nbsp;",
+                "sUrl": "",
+                "oPaginate":
+                {
+                    "sFirst": "Primeiro",
+                    "sPrevious": "Anterior",
+                    "sNext": "Seguinte",
+                    "sLast": "Último"
+                }
+            },
+            "aaSorting": [[0, "asc"]],
+            "pageLength": 50,
+            "iDisplayLength": 15,
+            "aLengthMenu": [[5, 10, 15, 25, 35, 50, 100, -1], [5, 10, 15, 25, 35, 50, 100, "Todos"]]
+        });
+
+        $(".input-sm").attr("Placeholder", "Pesquisa...");
+    });
+</script>
+
+<table id="datatable-client" class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Data da Criação</th>
+            <th>Situação</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var Client in Model)
+            {
+                <tr>
+                    <td>@Client.Name</td>
+                    <td>@Client.RegisterDate.ToShortDateString() ás @Client.RegisterDate.ToShortTimeString()</td>
+                    <td align="center">
+                        @if (Client.Situations == Situations.Active)
+                        {
+                            <span class="badge badge-soft-success badge-lg">Ativo</span>
+                        }
+                        else if (Client.Situations == Situations.Inactive)
+                        {
+                            <span class="badge badge-soft-danger v">Inativo</span>
+                        }
+                        else if (Client.Situations == Situations.Deleted)
+                        {
+                            <span class="badge badge-soft-warning badge-lg">Deletado</span>
+                        }
+                    </td>
+                    <td align="center">
+                        <a href="@Url.Action("Edit","Client",new {Id = Client.Id})">
+                            <i class="las la-pen text-secondary font-16"></i>
+                        </a>
+                        <a href="#">
+                            <i class="las la-trash-alt text-secondary font-16"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

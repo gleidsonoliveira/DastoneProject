@@ -12,8 +12,9 @@ namespace Dastone.Controllers
         IMapper _vMapper;
         private readonly ILogger<ClientController> _vLogger;
         private readonly IClientService _vIClientService;
-        public ClientController(ILogger<ClientController> _pLogger, IClientService _pIClientService)
+        public ClientController(ILogger<ClientController> _pLogger, IClientService _pIClientService, IMapper _pMapper)
         {
+            _vMapper = _pMapper;
             _vLogger = _pLogger;
             _vIClientService = _pIClientService;
         }
@@ -26,8 +27,15 @@ namespace Dastone.Controllers
         [HttpPost]
         public PartialViewResult _List()
         {
-            IEnumerable<ClientViewModel> vCourtyards = _vMapper.Map<IEnumerable<Client>, IEnumerable<ClientViewModel>>(_vIClientService.GetAllActive(Situations.Active));
-            return PartialView("_List", vCourtyards);
+            var vClients = _vIClientService.GetAllActive(Situations.Active);
+            if (vClients is not null && vClients.Any())
+            {
+                IEnumerable<ClientViewModel> vCourtyards = _vMapper.Map<IEnumerable<Client>, IEnumerable<ClientViewModel>>(vClients);
+                return PartialView("_List", vCourtyards);
+            }
+            else
+                return PartialView("_List", new List<ClientViewModel>());
+
         }
 
         public async Task<IActionResult> Create()
@@ -39,11 +47,8 @@ namespace Dastone.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([FromForm] ClientViewModel Obj)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
-                Obj.Situations = Situations.Active;
-                Obj.RegisterDate = DateTime.Now;
-
                 var vClientViewModel = _vMapper.Map<Client>(Obj);
                 var vObjClient = await _vIClientService.Add(vClientViewModel);
 
@@ -59,7 +64,8 @@ namespace Dastone.Controllers
             if (vClient == null)
                 return RedirectToAction("Index");
 
-            return View(vClient);
+            var vClientViewModel = _vMapper.Map<Client, ClientViewModel>(vClient);
+            return View(vClientViewModel);
         }
 
         [HttpPost]
@@ -68,7 +74,6 @@ namespace Dastone.Controllers
         {
             if (ModelState.IsValid)
             {
-                Obj.Situations = Situations.Active;
                 Obj.ChangeDate = DateTime.Now;
 
                 Client vClient = await _vIClientService.GetById(Obj.Id);

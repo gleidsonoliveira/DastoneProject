@@ -1,5 +1,128 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@model Dastone.ViewModel.Entity.ClientViewModel;
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="page-title-box">
+                <div class="row">
+                    <div class="col">
+                        <h4 class="page-title">Nova Categoria</h4>
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="javascript:void(0);">Cadastro Básico</a></li>
+                            <li class="breadcrumb-item"><a href="javascript:void(0);">Categorias</a></li>
+                            <li class="breadcrumb-item active">Novo Cadastro</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <div class="row align-items-center">
+                        <div class="col">
+                            <h4 class="card-title">&nbsp;</h4>
+                            <p class="text-muted mb-0">&nbsp;</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-lg-12">
+
+                            <form id="form-category" class="col s12 form-parsley" asp-action="Create" asp-antiforgery="true" method="post">
+                                @Html.AntiForgeryToken()
+                                @Html.ValidationSummary(true)
+                                @Html.HiddenFor(model => model.Id)
+
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col-lg-12 col-6 mb-2 mb-lg-0">
+                                            <label class="form-label" for="Name">Nome</label>
+                                            <input asp-for="Name" type="text" class="form-control" id="txt-Name" aria-describedby="Name-Help" placeholder="" required data-parsley-error-message="Campo obrigatório">
+                                            <span asp-validation-for="Name" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col-lg-10 col-6 mb-2 mb-lg-0">
+                                            <label class="form-label" for="Name">Endereço</label>
+                                            <input asp-for="Address" type="text" class="form-control" id="txt-Address" aria-describedby="Address-Help" placeholder="" required data-parsley-error-message="Campo obrigatório">
+                                            <span asp-validation-for="Address" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-lg-2 col-6 mb-2 mb-lg-0">
+                                            <label class="form-label" for="Name">Número</label>
+                                            <input asp-for="AddressNumber" type="text" class="form-control" id="txt-AddressNumber" aria-describedby="AddressNumber-Help" placeholder="" required data-parsley-error-message="Campo obrigatório">
+                                            <span asp-validation-for="AddressNumber" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col-lg-2 col-6 mb-2 mb-lg-0">
+                                            <label class="form-label" for="Name">Cep</label>
+                                            <input asp-for="ZipCode" type="text" class="form-control" id="txt-ZipCode" aria-describedby="ZipCode-Help" placeholder="" required data-parsley-error-message="Campo obrigatório">
+                                            <span asp-validation-for="ZipCode" class="text-danger"></span>
+                                        </div>
+                                        <div class="col-lg-10 col-6 mb-2 mb-lg-0">
+                                            <label class="form-label" for="Name">Número</label>
+                                            <input asp-for="neighborhood" type="text" class="form-control" id="txt-neighborhood" aria-describedby="AddressNumber-Help" placeholder="" required data-parsley-error-message="Campo obrigatório">
+                                            <span asp-validation-for="neighborhood" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <label class="form-label" for="pro-message">Observação</label>
+                                    <textarea class="form-control" rows="5" asp-for="Observation" id="Observation" placeholder=""></textarea>
+                                </div>
+
+                                <div class="button-items">
+                                    <button type="submit" class="btn btn-soft-primary btn-sm">
+                                        <i class="mdi mdi-content-save me-2"></i>Salvar
+                                    </button>
+                                    <a asp-controller="category" asp-action="index" class="btn btn-soft-secondary btn-sm">
+                                        <i class="mdi mdi-cancel me-2"></i>Cancelar
+                                    </a>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section styles{
+    <link href="~/lib/select2/select2.min.css?@{
+    @DateTime.Now.Second
+}" rel="stylesheet" type="text/css" />
+}
+
+@section scripts{
+    <script src="~/js/function/function.js?@{
+    @DateTime.Now.Second
+}"></script>
+    <!-- Parsley js -->
+    <script src="~/lib/parsleyjs/parsley.min.js?@{
+    @DateTime.Now.Second
+}"></script>
+    <script src="~/js/pages/jquery.validation.init.js?@{
+    @DateTime.Now.Second
+}"></script>
+    <script src="~/js/modal/form.modal.js?@{
+    @DateTime.Now.Second
+}"></script>
+    <script src="~/js/controllers/category/category.js?@{
+    @DateTime.Now.Second
+}"></script>
+    <script src="~/lib/select2/select2.min.js?@{
+    @DateTime.Now.Second
+}"></script>
 }
