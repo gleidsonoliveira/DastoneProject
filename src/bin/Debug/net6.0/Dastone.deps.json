@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dastone/1.0.0": {
+        "dependencies": {
+          "jvectormap": "2.0.4"
+        },
+        "runtime": {
+          "Dastone.dll": {}
+        }
+      },
+      "jQuery/1.5.0": {},
+      "jvectormap/2.0.4": {
+        "dependencies": {
+          "jQuery": "1.5.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dastone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "jQuery/1.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5+nEf4jVSH+C1iZHw2yN+ihXGVw88glGZ1uYNwUhObrktwQG4+qzDEP93OIcWYqoI1C0RzAdR0GXRsmC77HKMA==",
+      "path": "jquery/1.5.0",
+      "hashPath": "jquery.1.5.0.nupkg.sha512"
+    },
+    "jvectormap/2.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eTvuSXyDN7Z/5yUe5mwSHoii68JLSBYFiugANsPzrmtc4QzC58EpI05g4nORp91hSIKEtXBN47K8n/TG83OrYA==",
+      "path": "jvectormap/2.0.4",
+      "hashPath": "jvectormap.2.0.4.nupkg.sha512"
+    }
+  }
+}

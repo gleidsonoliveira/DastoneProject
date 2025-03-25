@@ -1,0 +1,17 @@
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\bin\Debug\net6.0\Dastone.Data.deps.json
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\bin\Debug\net6.0\Dastone.Data.runtimeconfig.json
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\bin\Debug\net6.0\Dastone.Data.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\bin\Debug\net6.0\Dastone.Data.pdb
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\bin\Debug\net6.0\Dastone.Domain.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\bin\Debug\net6.0\Dastone.Domain.pdb
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\obj\Debug\net6.0\Dastone.Data.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\obj\Debug\net6.0\Dastone.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\obj\Debug\net6.0\Dastone.Data.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\obj\Debug\net6.0\Dastone.Data.AssemblyInfo.cs
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\obj\Debug\net6.0\Dastone.Data.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\obj\Debug\net6.0\Dastone.Data.csproj.CopyComplete
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\obj\Debug\net6.0\Dastone.Data.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\obj\Debug\net6.0\refint\Dastone.Data.dll
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\obj\Debug\net6.0\Dastone.Data.pdb
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\obj\Debug\net6.0\Dastone.Data.genruntimeconfig.cache
+C:\Desenvolvimento\Taina\Project\DastoneProject\Dastone.Data\obj\Debug\net6.0\ref\Dastone.Data.dll

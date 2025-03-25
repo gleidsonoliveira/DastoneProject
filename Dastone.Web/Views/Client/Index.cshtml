@@ -1,0 +1,56 @@
+﻿@using Dastone.ViewModel.Entity;
+<div class="container-fluid">
+    <!-- Page-Title -->
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="page-title-box">
+                <div class="row">
+                    <div class="col">
+                        <h4 class="page-title">Clientes</h4>
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="javascript:void(0);">Cadastro Básico</a></li>
+                            <li class="breadcrumb-item"><a href="javascript:void(0);">Clientes</a></li>
+                            <li class="breadcrumb-item active">Lista</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12">
+            <div class="boxControles">
+                <div class="controles">
+                    <a asp-controller="Client" asp-action="create" id="btn-add">
+                        <i data-feather="plus"></i>
+                        <span>&nbsp;Novo Cliente</span>
+                    </a>
+                </div>
+            </div>
+            <div id="list-client">
+                @await Html.PartialAsync("_List", new List<ClientViewModel>())
+            </div>
+        </div>
+    </div>
+</div>
+
+@section styles{
+    <link href="~/css/default.css" rel="stylesheet" type="text/css" />
+}
+@section scripts
+    {
+    <script type="text/javascript" src="~/js/Http/Http.js"></script>
+    <script type="text/javascript" src="~/js/function/function.js"></script>
+
+    <script type="text/javascript">
+        var vClient =
+        {
+            Top: 50,
+            Url: "/Client/_List",
+            DivId: "#list-client"
+        };
+
+        HelperHttp.GetAll(vClient, function () { }, function () { });
+    </script>
+}

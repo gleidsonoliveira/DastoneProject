@@ -1,0 +1,88 @@
+/*.wait {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    opacity: 0.9;
+    background: url(./Admin/production/images/aguarde.gif) center no-repeat #fff;
+    top: 0%;
+    left: 0%;
+}*/
+
+div.boxControles {
+    text-align: right;
+    border: 1px #CCC solid;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.controles {
+    display: inline-block;
+    padding: 13px 13px 13px 0px;
+    text-align: center;
+}
+
+    .controles a {
+        background-color: #f9f9f9 !important;
+        cursor: pointer;
+    }
+
+        .controles a svg {
+            background-color: white !important;
+        }
+
+        .controles a span {
+            color: #000;
+            font-size: 12px;
+            display: block;
+        }
+
+.margin-top-checkbox {
+    margin-top: 35px;
+}
+
+.form-check-label-left {
+    margin-left: 14px;
+}
+
+.badge-lg{
+    width:80%;
+}
+
+input[type=checkbox] {
+    -ms-transform: scale(2);
+    -moz-transform: scale(2);
+    -webkit-transform: scale(2);
+    -o-transform: scale(2);
+    transform: scale(2);
+    margin-right: 15px;
+    border: 1px solid #e3ebf6;
+    margin-left: calc(var(--bs-gutter-x) / -1);
+}
+
+.checkboxtext {
+    font-size: 110%;
+    display: inline;
+}
+
+.ti-angle-right, .ti-angle-left {
+    color: white;
+}
+
+.am-form-switch {
+    margin-left: 24px;
+    display: inline-flex;
+}
+
+.button-items button, .button-items a {
+    min-width: 100px;
+}
+
+.sessao-box {
+    border-bottom: solid 1px #f3f3f3;
+    height: 30px;
+    margin-bottom: 15px;
+}
